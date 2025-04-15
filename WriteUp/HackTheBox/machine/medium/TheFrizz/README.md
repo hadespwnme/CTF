@@ -47,7 +47,7 @@ CMIIW, nama domain frizzdc harus di urutan depan biar di resolve terlebih dahulu
 #### Tambahkan:
 **/etc/hosts:**
 ```bash
-$IP frizzdc.frizz.htb frizz.htb
+10.129.38.25 frizzdc.frizz.htb frizz.htb
 ```
 
 **/etc/krb5.conf**
@@ -71,7 +71,7 @@ nameserver 10.129.38.25
 Jangan lupa samakan waktu antara server dan kamu. 
 
 ```bash
-sudo ntpdate -s $IP
+sudo ntpdate -s 10.129.38.25
 ```
 
 ![gibbon](./img/gibbon.jpg)
