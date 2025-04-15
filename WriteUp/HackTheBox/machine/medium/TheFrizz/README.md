@@ -153,7 +153,7 @@ f.frizzle:Jenni_****_Magic**
 ```
 
 **Dapetin tiket:**
-``bash
+```bash
 impacket-getTGT frizz.htb/'f.frizzle':'Jenni_****_Magic**' -dc-ip frizzdc.frizz.htb  
 
 export KRB5CCNAME=f.frizzle.ccache
