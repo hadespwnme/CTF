@@ -1,6 +1,6 @@
 # HTB Writeup – Eureka
 
-![eureka](./img/eureka.jpg)
+![eureka](./eureka.jpg)
 
 # RECON
 
