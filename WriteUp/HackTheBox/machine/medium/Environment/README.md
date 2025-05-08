@@ -162,7 +162,7 @@ GIF89a
 GET http://environment.htb/storage/files/shell.gif
 ```
 
-Get Revshell.
+You can get revshell from here.
 
 # USER
 
